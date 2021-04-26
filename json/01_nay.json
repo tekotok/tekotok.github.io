@@ -1,0 +1,28 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ISI",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+
+      "admob_inter1": "XX",
+      "admob_inter2": "XX",
+      "admob_inter3": "XX",
+      "admob_native": "XX",
+      "admob_native_banner": "XX",
+      "admob_open": "XXc",
+
+
+      "interval_intertitial": "6",
+      "startappid": "203085380",
+
+      "fan_inter": "XX",
+      "fan_natine_banner": "XX",
+      "fan_natine": "XX",
+
+      "mopub_banner": "XX",
+      "mopub_inter": "XX"
+    }
+  ]
+}
