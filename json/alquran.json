@@ -2,11 +2,11 @@
   "Ads": [
     {
       "select_ads": "ISI",
-      "status_app": "1",
+      "status_app": "0",
       "link_redirect": "https://google.com",
 
 
-      "admob_inter": "XX"
+      "admob_inter": "ca-app-pub-1662959779358828/1027931392"
     }
   ]
 }
