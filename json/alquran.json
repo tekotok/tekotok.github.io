@@ -1,0 +1,12 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ISI",
+      "status_app": "1",
+      "link_redirect": "https://google.com",
+
+
+      "admob_inter": "XX"
+    }
+  ]
+}
