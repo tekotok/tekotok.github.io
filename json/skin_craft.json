@@ -1,0 +1,43 @@
+{
+  "Ads":
+  [
+    {
+      "status":"1",
+      
+      "select_ads":"0",
+      "link":"http://",
+      "backup_mode":"0",
+
+      
+      "admob_inter":"",
+      "admob_open_ads":"",
+      "admob_native_banner":"",
+
+      "interval":1,
+
+      "fan_inter":"",
+      "fan_native_banner":"",
+
+
+      "startappid":1234567,
+
+      "mopub_banner":"",
+      "mopub_inter":"",
+      
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":""
+    }
+
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"",
+      "image":"",
+      "link":""
+    }
+  ]
+}
