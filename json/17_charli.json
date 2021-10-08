@@ -1,17 +1,17 @@
 {
   "Ads": [
     {
-      "select_ads": "STARTAPP",
+      "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
 
 
-      "admob_inter1": "XX",
-      "admob_inter2": "XX",
-      "admob_inter3": "XX",
-      "admob_native": "XX",
-      "admob_native_banner": "XX",
-      "admob_open": "XXc",
+      "admob_inter1": "ca-app-pub-1662959779358828/3005771514",
+      "admob_inter2": "ca-app-pub-1662959779358828/8756791645",
+      "admob_inter3": "ca-app-pub-1662959779358828/7443709977",
+      "admob_native": "ca-app-pub-1662959779358828/1692689844",
+      "admob_native_banner": "ca-app-pub-1662959779358828/6753444830",
+      "admob_open": "ca-app-pub-1662959779358828/5440363166",
 
 
       "interval_intertitial": "6",
