@@ -1,0 +1,4 @@
+The app is can be access offline
+The app is not downloadable content
+The app is not Linking to content that does not exist or error
+The app is not Redirecting users to irrelevant and/or misleading webpages
