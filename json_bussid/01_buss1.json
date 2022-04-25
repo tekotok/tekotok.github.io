@@ -1,6 +1,6 @@
  { "Ads": [
     {
-      "select_main_ads": xx
+      "select_main_ads": "XX",
       "select_backup_ads":"XX",
 
       "main_ads_banner": "xx",
