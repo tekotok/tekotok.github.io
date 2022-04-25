@@ -1,0 +1,211 @@
+ { "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+
+      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+      "backup_native_for_admob_applovin":"",
+
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+
+      "interval_intertitial": 5,
+
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+
+      "mobil": "NO",
+      "truck": "YES",
+      "garasi": "NO",
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "DATA":
+  [
+    {
+      "title":"jb2 shd",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-JB2-SHD.jpeg",
+      "link_mods":"https://file.modbussid.co.id/8wo",
+      "link_livery":"https://sikuho.github.io/livery/jb2_shd.png"
+    },
+
+    {
+      "title":"SR2 Panorama",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Bus-SR2-Panorama.jpeg",
+      "link_mods":"https://file.modbussid.co.id/90T",
+      "link_livery":"https://sikuho.github.io/livery/SR2 Panorama.png"
+    },
+
+    {
+      "title":"Jetliner SHD Hino RK8",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Bus-Jetliner-SHD-Hino-RK8.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6ot",
+      "link_livery":"https://sikuho.github.io/livery/Jetliner SHD Hino RK8.png"
+    },
+
+    {
+      "title":"SR2 XHD Prime Scania K410iB Varian Sumatra",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-SR2-XHD-Prime-Scania-K410iB-Varian-Sumatra.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6oz",
+      "link_livery":"https://sikuho.github.io/livery/SR2 XHD Prime Scania K410iB Varian Sumatra.png"
+    },
+
+    {
+      "title":"Bus Transjakarta Gandeng",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Bus-Transjakarta-Gandeng.jpg",
+      "link_mods":"https://file.modbussid.co.id/8X4",
+      "link_livery":"https://sikuho.github.io/livery/"
+    },
+
+    {
+      "title":"Bumel Sumber Kencono",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Bus-Bumel-Sumber-Kencono.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6gj",
+      "link_livery":"https://sikuho.github.io/livery/"
+    }
+    ,
+
+    {
+      "title":"Jetbus 2 Travego",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Jetbus-2-Travego.jpeg",
+      "link_mods":"https://file.modbussid.co.id/8Qf",
+      "link_livery":"https://sikuho.github.io/livery/"
+    },
+
+    {
+      "title":"Bus Transjakarta",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-Bus-Transjakarta.jpeg",
+      "link_mods":"https://file.modbussid.co.id/66d",
+      "link_livery":"https://sikuho.github.io/livery/"
+    },
+
+    {
+      "title":"Avante D2 SDD Harapan Jaya",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-Avante-D2-SDD.jpeg",
+      "link_mods":"https://file.modbussid.co.id/663",
+      "link_livery":"https://sikuho.github.io/livery/Avante D2 SDD Harapan Jaya.png"
+    },
+
+    {
+      "title":"JB3+ SHD Setra Angga Saputro Hino RK8",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-SHD-Setra-Angga-Saputro-Hino-RK8.jpg",
+      "link_mods":"https://file.modbussid.co.id/3tq",
+      "link_livery":"https://sikuho.github.io/livery/"
+    },
+
+    {
+      "title":"JB3 Oleng Di Tempat",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-Oleng-Di-Tempat.jpg",
+      "link_mods":"https://file.modbussid.co.id/3td",
+      "link_livery":"https://sikuho.github.io/livery/g"
+    },
+
+    {
+      "title":"JBHD Bumel",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JBHD-Bumel.jpg",
+      "link_mods":"https://file.modbussid.co.id/60Y",
+      "link_livery":"https://sikuho.github.io/livery/JBHD Bumel.png"
+    },
+
+    {
+      "title":"Bus Sekolah Cvt WSP",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Bus-Sekolah-Cvt-WSP.jpeg",
+      "link_mods":"https://file.modbussid.co.id/910",
+      "link_livery":"https://sikuho.github.io/livery/"
+    }
+  ],
+
+
+
+  "TRUCK":
+  [
+    {
+      "title":"Truck-Monster",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Monster-Truck-Seventy-Indonesia.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6q6?pt=WkV0blJXWjRaVTlQT1hKRlVHbDVZaTlpTVUxTFp6MDlPdGczK2c0cUlvZnk0ckNzQXBqU0xNQT0%3D",
+      "link_livery":"https://sikuho.github.io/livery/"
+    },
+
+    {
+      "title":"Truck-Umplung",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Monster-Truck-Seventy-Indonesia.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6qd",
+      "link_livery":"https://sikuho.github.io/livery/Truck-Umplung.png"
+    },
+    {
+      "title":"Volvo FMX 440",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Volvo-FMX-440.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6qb",
+      "link_livery":"https://sikuho.github.io/livery/Volvo FMX 440.png"
+    },
+
+    {
+      "title":"UD Quester Bak Muat Kayu",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-UD-Quester-Bak-Muat-Kayu.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6q0",
+      "link_livery":"https://sikuho.github.io/livery/UD Quester Bak Muat Kayu.png"
+    },
+
+    {
+      "title":"Canter NMR JSK Concept Star Light",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-NMR-JSK-Concept-Star-Light.jpeg",
+      "link_mods":"https://file.modbussid.co.id/919",
+      "link_livery":"https://sikuho.github.io/livery/Canter NMR JSK Concept Star Light.png"
+    },
+
+    {
+      "title":"Truck Canter Giga Restu Bunda",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Giga-Restu-Bunda.jpeg",
+      "link_mods":"https://file.modbussid.co.id/910",
+      "link_livery":"https://sikuho.github.io/livery/Truck Canter Giga Restu Bunda.png"
+    },
+
+    {
+      "title":"Hino Trailer Pencuri Traffic",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Hino-Trailer-Pencuri-Traffic.jpeg",
+      "link_mods":"https://file.modbussid.co.id/90Z",
+      "link_livery":"https://sikuho.github.io/livery/"
+    },
+
+    {
+      "title":"Canter Sujama Malika",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Sujama-Malika.jpeg",
+      "link_mods":"https://file.modbussid.co.id/90X",
+      "link_livery":"https://sikuho.github.io/livery/Canter Sujama Malika.png"
+    }
+  ],
+
+
+  "MOBIL":
+  [
+    {
+      "title":"FORMULA 2",
+      "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/10/SGCA_IMG-14102021-150915.jpg",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle",
+      "link_livery":"https://sikuho.github.io/livery/"
+    }
+  ],
+
+
+  "GARASI":
+  [
+    {
+      "title":"GRS 2",
+      "image":"https://i.pinimg.com/originals/0b/e2/b0/0be2b085c076c37ff45348485e1acdb3.jpg",
+      "link_garasi":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle",
+      "link_livery":"https://sikuho.github.io/livery/"
+    }
+  ]
+}
