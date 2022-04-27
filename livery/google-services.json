@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "358051419768",
+    "project_id": "bussid-tekotok",
+    "storage_bucket": "bussid-tekotok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358051419768:android:f240ca6d2787dccd2aff8d",
+        "android_client_info": {
+          "package_name": "com.tekotok.patroli_polisi_bussid_bussimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358051419768-ge5sl4f5k6qo94hfpgk7oi83lhuk2j6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0EuBBPlYXF6g7n7H0ujwAVo16_a7KSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358051419768-ge5sl4f5k6qo94hfpgk7oi83lhuk2j6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358051419768:android:bdc2ae2257f791fe2aff8d",
+        "android_client_info": {
+          "package_name": "com.tekotok.rosaliaindah_bussid_bussimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358051419768-ge5sl4f5k6qo94hfpgk7oi83lhuk2j6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0EuBBPlYXF6g7n7H0ujwAVo16_a7KSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358051419768-ge5sl4f5k6qo94hfpgk7oi83lhuk2j6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
