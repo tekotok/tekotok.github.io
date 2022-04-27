@@ -1,0 +1,701 @@
+ { "Ads": [
+    {
+      "select_main_ads": "XX",
+      "select_backup_ads":"XX",
+
+      "main_ads_banner": "xx",
+      "main_ads_intertitial":"xx",
+
+      "main_native_for_admob_applovin":"xx",
+      "backup_native_for_admob_applovin":"",
+
+      "backup_ads_banner":"xx",
+      "backup_ads_intertitial":"xx",
+
+      "interval_intertitial": 2,
+
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+
+      "mobil": "YES",
+      "truck": "YES",
+      "garasi": "NO",
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "DATA":
+  [
+    {
+      "title":"jb2 shd",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-JB2-SHD.jpeg",
+      "link_mods":"https://file.modbussid.co.id/8wo",
+      "link_livery":"https://sikuho.github.io/livery/jb2_shd.png"
+    },
+
+    {
+      "title":"SR2 Panorama",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Bus-SR2-Panorama.jpeg",
+      "link_mods":"https://file.modbussid.co.id/90T",
+      "link_livery":"https://sikuho.github.io/livery/SR2 Panorama.png"
+    },
+
+    {
+      "title":"Jetliner SHD Hino RK8",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Bus-Jetliner-SHD-Hino-RK8.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6ot",
+      "link_livery":"https://sikuho.github.io/livery/Jetliner SHD Hino RK8.png"
+    },
+
+    {
+      "title":"SR2 XHD Prime Scania K410iB Varian Sumatra",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-SR2-XHD-Prime-Scania-K410iB-Varian-Sumatra.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6oz",
+      "link_livery":"https://sikuho.github.io/livery/SR2 XHD Prime Scania K410iB Varian Sumatra.png"
+    },
+
+    {
+      "title":"Bus Transjakarta Gandeng",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Bus-Transjakarta-Gandeng.jpg",
+      "link_mods":"https://file.modbussid.co.id/8X4",
+      "link_livery":""
+    },
+
+    {
+      "title":"Bumel Sumber Kencono",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Bus-Bumel-Sumber-Kencono.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6gj",
+      "link_livery":""
+    }
+    ,
+
+    {
+      "title":"Jetbus 2 Travego",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Jetbus-2-Travego.jpeg",
+      "link_mods":"https://file.modbussid.co.id/8Qf",
+      "link_livery":""
+    },
+
+    {
+      "title":"Bus Transjakarta",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-Bus-Transjakarta.jpeg",
+      "link_mods":"https://file.modbussid.co.id/66d",
+      "link_livery":""
+    },
+
+    {
+      "title":"Avante D2 SDD Harapan Jaya",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-Avante-D2-SDD.jpeg",
+      "link_mods":"https://file.modbussid.co.id/663",
+      "link_livery":"https://sikuho.github.io/livery/Avante D2 SDD Harapan Jaya.png"
+    },
+
+    {
+      "title":"JB3+ SHD Setra Angga Saputro Hino RK8",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-SHD-Setra-Angga-Saputro-Hino-RK8.jpg",
+      "link_mods":"https://file.modbussid.co.id/3tq",
+      "link_livery":""
+    },
+
+    {
+      "title":"JB3 Oleng Di Tempat",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-Oleng-Di-Tempat.jpg",
+      "link_mods":"https://file.modbussid.co.id/3td",
+      "link_livery":"https://sikuho.github.io/livery/"
+    },
+
+    {
+      "title":"JBHD Bumel",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JBHD-Bumel.jpg",
+      "link_mods":"https://file.modbussid.co.id/60Y",
+      "link_livery":"https://sikuho.github.io/livery/JBHD Bumel.png"
+    },
+
+    {
+      "title":"Bus Sekolah Cvt WSP",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Bus-Sekolah-Cvt-WSP.jpeg",
+      "link_mods":"https://file.modbussid.co.id/910",
+      "link_livery":""
+    }
+  ],
+
+
+
+  "TRUCK":
+  [
+
+    {
+      "title":"Bandar Susu",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Canter-Bandar-Susu-Terpal-Segitiga.jpg",
+      "link_mods":"https://file.modbussid.co.id/3me",
+      "link_livery":"https://sikuho.github.io/livery/Bandar Susu.png"
+    },
+    {
+      "title":"Canter Box Balap",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Canter-Box-Balap.jpg",
+      "link_mods":"https://file.modbussid.co.id/3mh",
+      "link_livery":"https://sikuho.github.io/livery/Canter Box Balap.png"
+    },
+    {
+      "title":"Canter Towing Grand Master",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Canter-Towing-Grand-Master.jpg",
+      "link_mods":"https://file.modbussid.co.id/3mj",
+      "link_livery":"https://sikuho.github.io/livery/Canter Towing Grand Master.png"
+    },
+    {
+      "title":"Isuzu NKR Dump Muat Sawit",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/Isuzu-NKR-Dump-Muat-Sawit.jpg",
+      "link_mods":"https://file.modbussid.co.id/610",
+      "link_livery":""
+    },
+    {
+      "title":"Canter New Oppa Muda Terpal",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/Canter-New-Oppa-Muda-Terpal-Segitiga.jpg",
+      "link_mods":"https://dl.modbussid.co.id/3ph",
+      "link_livery":"https://sikuho.github.io/livery/Canter New Oppa Muda Terpal.png"
+    },
+    {
+      "title":"Isuzu Giga",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Isuzu-Giga.jpg",
+      "link_mods":"https://file.modbussid.co.id/3nt",
+      "link_livery":""
+    },
+    {
+      "title":"Axor Mercedes-Benz Dump",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Truck-Axor-Mercedes-Benz-Dump.jpeg",
+      "link_mods":"https://download.modbussid.co.id/5S2",
+      "link_livery":""
+    },
+    {
+      "title":"Hino Losbak Muat Semen",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Truck-Hino-Losbak-Muat-Semen.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/5S3",
+      "link_livery":""
+    },
+    {
+      "title":"New Canter Gandeng",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Truck-New-Canter-Gandeng.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/5S4",
+      "link_livery":""
+    },
+    {
+      "title":"Fuso Bak Terpal",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Fuso-Bak-Terpal.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3ga",
+      "link_livery":""
+    },
+    {
+      "title":"Fuso Dump Muatan Batu",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Fuso-Dump-Muatan-Batu.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3g9",
+      "link_livery":""
+    },
+    {
+      "title":"Canter Wahyu Abadi",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Canter-Wahyu-Abadi.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3gm",
+      "link_livery":""
+    },
+    {
+      "title":"Pickup Tahu Bulat",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Pickup-Tahu-Bulat.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3im",
+      "link_livery":""
+    },
+    {
+      "title":"Truck VAR 4",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Truck-VAR-4.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/8us",
+      "link_livery":""
+    },
+    {
+      "title":"Canter Anti Gosip Terpal Segitiga",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/Canter-Anti-Gosip-Terpal-Segitiga.jpg",
+      "link_mods":"https://file.modbussid.co.id/62Z",
+      "link_livery":"https://sikuho.github.io/livery/Canter Anti Gosip Terpal Segitiga.png"
+    },
+    {
+      "title":"Engkel Hino 500 NG HSD",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Engkel-Hino-500-NG-HSD.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/5R2",
+      "link_livery":""
+    },
+    {
+      "title":"Volvo Globetrottter Pertamina",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/07/MOD-BUSSID-Truck-Volvo-Globetrottter-Pertamina.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/5R0",
+      "link_livery":""
+    },
+    {
+      "title":"Hino 500 Bumper Modif by HSD Codit Aldovadewa",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/05/MOD-BUSSID-Truck-Hino-500-Bumper-Modif.jpeg",
+      "link_mods":"https://download.modbussid.co.id/3ed",
+      "link_livery":""
+    },
+    {
+      "title":"Canter V2 Varian A, B, C, D",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/05/MOD-BUSSID-Truck-Canter-V2-Varian-A-B-C-D.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3ej",
+      "link_livery":""
+    },
+    {
+      "title":"Canter Paman Santri Muatan Gayor",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/06/MOD-BUSSID-Truck-Canter-Paman-Santri-Muatan-Gayor.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3ex",
+      "link_livery":""
+    },
+
+    {
+      "title":"Mitsubishi Fuso Canter by BMI",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/07/MOD-BUSSID-Truck-Mitsubishi-Fuso-Canter.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/5NY",
+      "link_livery":""
+    },
+
+    {
+      "title":"Truck Tua Mack Amerika",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Tua-Mack-Amerika.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3ge",
+      "link_livery":""
+    },
+
+    {
+      "title":"Hino 500 Angkut Pipa",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Hino-500-Angkut-Pipa.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3g6",
+      "link_livery":""
+    },
+
+    {
+      "title":"Isuzu NKR 71 Dump",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Isuzu-NKR-71-Dump.jpg",
+      "link_mods":"https://dl.modbussid.co.id/3lw",
+      "link_livery":""
+    },
+
+    {
+      "title":"NKR Towing Angkut Beko",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Isuzu-NKR-Towing-Angkut-Beko.jpg",
+      "link_mods":"https://dl.modbussid.co.id/3ly",
+      "link_livery":""
+    },
+
+    {
+      "title":"Isuzu NKR Towing Angkut Beko & Canter",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Isuzu-NKR-Towing-Angkut-Beko-Canter.jpg",
+      "link_mods":"https://dl.modbussid.co.id/3lx",
+      "link_livery":""
+    },
+
+    {
+      "title":"Peterbilt Truck",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Peterbilt-Truck.jpg",
+      "link_mods":"https://dl.modbussid.co.id/8yx",
+      "link_livery":"https://sikuho.github.io/livery/Peterbilt Truck.png"
+    },
+
+    {
+      "title":"Volvo FMX E5 10X4 Dumper",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Volvo-FMX-E5-10X4-Dumper.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3vo",
+      "link_livery":""
+    },
+
+    {
+      "title":"Canter Box Lady Rose",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Canter-Box-Lady-Rose.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3vi",
+      "link_livery":""
+    },
+
+    {
+      "title":"Truck Canter Samudra Nusantara",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/Canter-Samudra-Nusantara.jpg",
+      "link_mods":"https://dl.modbussid.co.id/bAx",
+      "link_livery":"https://sikuho.github.io/livery/Truck Canter Samudra Nusantara.png"
+    },
+
+    {
+      "title":"Canter Bumi Wali Muat Bambu",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Truck-Canter-Bumi-Wali-Muat-Bambu.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/6de",
+      "link_livery":"https://sikuho.github.io/livery/Canter Bumi Wali Muat Bambu.png"
+    },
+
+    {
+      "title":"Canter Ayam Maulana Expedition",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Truck-Canter-Ayam-Maulana-Expedition.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/8NV",
+      "link_livery":"https://sikuho.github.io/livery/Canter Ayam Maulana Expedition.png"
+    },
+    {
+      "title":"Isuzu NMR 01 Mbois",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/05/Isuzu-NMR-01-Mbois.jpg",
+      "link_mods":"https://dl.modbussid.co.id/bwe",
+      "link_livery":"https://sikuho.github.io/livery/Isuzu NMR 01 Mbois.png"
+    },
+    {
+      "title":"Canter New Wahyu Abadi Bumper M18",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/05/MOD-BUSSID-Truck-Canter-New-Wahyu-Abadi-Bumper-M18.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/bwa",
+      "link_livery":"https://sikuho.github.io/livery/Canter New Wahyu Abadi Bumper M18.png"
+    },
+    {
+      "title":"Mercedes-Benz Unimog Gandeng",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/Truck-Mercedes-Benz-Unimog-Gandeng.jpg",
+      "link_mods":"https://dl.modbussid.co.id/byc",
+      "link_livery":"https://sikuho.github.io/livery/Mercedes-Benz Unimog Gandeng.png"
+    },
+    {
+      "title":"Scania R580 Trailer",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/Truck-Scania-R580-Trailer.jpg",
+      "link_mods":"https://file.modbussid.co.id/6lw",
+      "link_livery":"https://sikuho.github.io/livery/Scania R580 Trailer.png"
+    },
+    {
+      "title":"Hydramax AERV",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Truck-Hydramax-AERV.jpg",
+      "link_mods":"https://dl.modbussid.co.id/byu",
+      "link_livery":"https://sikuho.github.io/livery/Hydramax AERV.png"
+    },
+    {
+      "title":"Mercedes-Benz Atego Damkar",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/08/MOD-BUSSID-Truck-Mercedes-Benz-Atego-Damkar.jpg",
+      "link_mods":"https://file.modbussid.co.id/6n8",
+      "link_livery":""
+    },
+    {
+      "title":"Canter Ayam Bodykit Samudra Nusantara",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Truck-Canter-Ayam-Bodykit-Samudra-Nusantara.jpg",
+      "link_mods":"https://file.modbussid.co.id/bAv",
+      "link_livery":"https://sikuho.github.io/livery/Canter Ayam Bodykit Samudra Nusantara.png"
+    },
+    {
+      "title":"cania P360 Pemadam Kebakaran",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Truck-Scania-P360-Pemadam-Kebakaran.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6oa",
+      "link_livery":""
+    },
+    {
+      "title":"Truck-Monster",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Monster-Truck-Seventy-Indonesia.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6q6?pt=WkV0blJXWjRaVTlQT1hKRlVHbDVZaTlpTVUxTFp6MDlPdGczK2c0cUlvZnk0ckNzQXBqU0xNQT0%3D",
+      "link_livery":""
+    },
+
+    {
+      "title":"Truck-Umplung",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Umplung-Kantor-Rafael-Wedding.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6qd",
+      "link_livery":"https://sikuho.github.io/livery/Truck-Umplung.png"
+    },
+    {
+      "title":"Volvo FMX 440",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Volvo-FMX-440.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6qb",
+      "link_livery":"https://sikuho.github.io/livery/Volvo FMX 440.png"
+    },
+
+    {
+      "title":"UD Quester Bak Muat Kayu",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-UD-Quester-Bak-Muat-Kayu.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6q0",
+      "link_livery":"https://sikuho.github.io/livery/UD Quester Bak Muat Kayu.png"
+    },
+
+    {
+      "title":"Canter NMR JSK Concept Star Light",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-NMR-JSK-Concept-Star-Light.jpeg",
+      "link_mods":"https://file.modbussid.co.id/919",
+      "link_livery":"https://sikuho.github.io/livery/Canter NMR JSK Concept Star Light.png"
+    },
+
+    {
+      "title":"Truck Canter Giga Restu Bunda",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Giga-Restu-Bunda.jpeg",
+      "link_mods":"https://file.modbussid.co.id/910",
+      "link_livery":"https://sikuho.github.io/livery/Truck Canter Giga Restu Bunda.png"
+    },
+
+    {
+      "title":"Hino Trailer Pencuri Traffic",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Hino-Trailer-Pencuri-Traffic.jpeg",
+      "link_mods":"https://file.modbussid.co.id/90Z",
+      "link_livery":""
+    },
+
+    {
+      "title":"Canter Sujama Malika",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Sujama-Malika.jpeg",
+      "link_mods":"https://file.modbussid.co.id/90X",
+      "link_livery":"https://sikuho.github.io/livery/Canter Sujama Malika.png"
+    }
+  ],
+
+
+  "MOBIL":
+  [
+    {
+      "title":"PATROLI",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/Mobil-Mazda-6-Patwal.jpeg",
+      "link_mods":"https://raw.githubusercontent.com/tekotok/tekotok.github.io/main/garage/polisi.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Jaguar XE SV",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/01/Mobil-Jaguar-XE-SV-Project-8.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6qa",
+      "link_livery":""
+    },
+    {
+      "title":"Honda Civic Type R",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Mobil-Honda-Civic-Type-R.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6oe",
+      "link_livery":"https://tekotok.github.io//liveryHonda Civic Type R.png"
+    },
+    {
+      "title":"Pontiac GTO 1969",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/01/Mobil-Pontiac-GTO-1969.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6q3",
+      "link_livery":""
+    },
+
+    {
+      "title":"Ferrari SF90 Stradale 2021",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Mobil-Ferrari-SF90-Stradale.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6o2",
+      "link_livery":"https://tekotok.github.io/livery/Ferrari SF90 Stradale 2021.png"
+    },
+    {
+      "title":"Hyundai Elantra 2019",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Mobil-Hyundai-Elantra-2019.jpeg",
+      "link_mods":"https://file.modbussid.co.id/bAu",
+      "link_livery":""
+    },
+    {
+      "title":"Hyundai Ioniq Hybrid",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Mobil-Hyundai-Ioniq-Hybrid.jpeg",
+      "link_mods":"https://file.modbussid.co.id/8Z6",
+      "link_livery":""
+    },
+    {
+      "title":"Mobil Honda Brio RS Hatchback",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Mobil-Honda-Brio-RS-Hatchback.jpeg",
+      "link_mods":"https://download.modbussid.co.id/8Z1",
+      "link_livery":""
+    },
+    {
+      "title":"Skoda Rapid",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/01/Mobil-Skoda-Rapid.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6q5",
+      "link_livery":""
+    },
+    {
+      "title":"Skoda Superb",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/01/Mobil-Skoda-Superb.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6q9",
+      "link_livery":""
+    },
+    {
+      "title":"BMW 1M E82 Coupe 2011",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/01/Mobil-BMW-1M-E82-Coupe-2011.jpeg",
+      "link_mods":"https://file.modbussid.co.id/91g",
+      "link_livery":""
+    },
+    {
+      "title":"Space Docker GTA 5",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/01/Mobil-Space-Docker-GTA-5.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6q7",
+      "link_livery":""
+    },
+    {
+      "title":"Ford F 150 SVT Raptor 2009",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/Mobil-Ford-F-150-SVT-Raptor-2009.jpeg",
+      "link_mods":"https://file.modbussid.co.id/91h",
+      "link_livery":""
+    },
+    {
+      "title":"Bentley Flying Spur",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/Mobil-Bentley-Flying-Spur.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6q2",
+      "link_livery":""
+    },
+    {
+      "title":"Rolls Royce Phantom Drophead Coupe",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/Mobil-Rolls-Royce-Phantom-Drophead-Coupe.jpeg",
+      "link_mods":"https://file.modbussid.co.id/91f",
+      "link_livery":""
+    },
+    {
+      "title":"Mercedes-Benz W222 Maybach S900 Brabus",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/Mobil-Mercedes-Benz-W222-Maybach-S900-Brabus-.jpeg",
+      "link_mods":"https://file.modbussid.co.id/91e",
+      "link_livery":""
+    },
+    {
+      "title":"Mobil Alfa Romeo Giulia Quadrifoglio 2017",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/Mobil-Alfa-Romeo-Giulia-Quadrifoglio-2017.jpeg",
+      "link_mods":"https://file.modbussid.co.id/91d",
+      "link_livery":""
+    },
+    {
+      "title":"Mercedes-Benz E55 AMG",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/Mobil-Mercedes-Benz-E55-AMG.jpeg",
+      "link_mods":"https://file.modbussid.co.id/918",
+      "link_livery":""
+    }
+    ,
+    {
+      "title":"Lexus LX 570 Invader",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/Mobil-Lexus-LX-570-Invader.jpeg",
+      "link_mods":"https://file.modbussid.co.id/916",
+      "link_livery":""
+    }
+    ,
+    {
+      "title":"Mercedes-Benz E500",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/Mobil-Mercedes-Benz-E500.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6pz",
+      "link_livery":""
+    }
+    ,
+    {
+      "title":"Range Rover SVAutobiography",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/Mobil-Range-Rover-SVAutobiography.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6py",
+      "link_livery":""
+    }
+    ,
+    {
+      "title":"Mercedes-Benz AMG C63 Coupe 2016",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/Mobil-Mercedes-Benz-AMG-C63-Coupe-2016.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6px",
+      "link_livery":""
+    }
+    ,
+    {
+      "title":"Mobil Honda Brio RS",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/Mobil-Honda-Brio-RS.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6pr",
+      "link_livery":""
+    }
+    ,
+    {
+      "title":"Mazda 6",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/Mobil-Mazda-6.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6pw",
+      "link_livery":""
+    }
+    ,
+    {
+      "title":"Volkswagen Amarok TDI",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/Mobil-Volkswagen-Amarok-TDI.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6pk",
+      "link_livery":"https://tekotok.github.io/livery/Volkswagen Amarok TDI.png"
+    }
+    ,
+    {
+      "title":"Mercedes-Benz S63 Cabrio",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/Mobil-Mercedes-Benz-S63-Cabrio.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6pi",
+      "link_livery":""
+    }
+    ,
+    {
+      "title":"Mercedes-Benz Vision AVTR",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/Mobil-Mercedes-Benz-Vision-AVTR.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6pg",
+      "link_livery":""
+    }
+    ,
+    {
+      "title":"F1 Red Bull Racing RB15 2019",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/Mobil-F1-Red-Bull-Racing-RB15-2019.jpeg",
+      "link_mods":"https://download.modbussid.co.id/6pc",
+      "link_livery":""
+    }
+    ,
+    {
+      "title":"Lamborghini Countach LPI 800-4 2022",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/Mobil-Lamborghini-Countach-LPI-800-4-2022.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6p9",
+      "link_livery":"https://tekotok.github.io/liveryLamborghini Countach LPI 800-4 20221.png"
+    }
+    ,
+    {
+      "title":"Hyundai H-1",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/Mobil-Hyundai-H-1.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6p7",
+      "link_livery":"https://tekotok.github.io//liveryHyundai H-1.png"
+    }
+    ,
+    {
+      "title":"Hennessey Venom F5 2020",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/Mobil-Hennessey-Venom-F5-2020.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/6p5",
+      "link_livery":""
+    },
+    {
+      "title":"Toyota Granvia 2020",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/Mobil-Toyota-Granvia-2020.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6p2",
+      "link_livery":"https://tekotok.github.io//liveryHyundai H-1.png"
+    },
+    {
+      "title":"Toyota Sienna 2017",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/Mod-Mobil-Toyota-Sienna-2017.jpeg",
+      "link_mods":"https://file.modbussid.co.id/90h",
+      "link_livery":""
+    },
+    {
+      "title":"Volkswagen Polo",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Mobil-Volkswagen-Polo-1.jpeg",
+      "link_mods":"https://file.modbussid.co.id/90b",
+      "link_livery":"https://tekotok.github.io//liveryVolkswagen Polo.png"
+    },
+    {
+      "title":"Ferrari F8 Spider 2020",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Mobil-Ferrari-F8-Spider.jpeg",
+      "link_mods":"https://file.modbussid.co.id/bBh",
+      "link_livery":"https://tekotok.github.io//liveryFerrari F8 Spider 2020.png"
+    },
+    {
+      "title":"Toyota FJ Cruiser",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Mobil-Toyota-FJ-Cruiser-1.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6od",
+      "link_livery":""
+    },
+    {
+      "title":"Toyota C-HR 2017",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Mobil-Toyota-C-HR-2017-1.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/6o9",
+      "link_livery":"https://tekotok.github.io//liveryHonda Civic Type R.png"
+    },
+    {
+      "title":"BMW M8 GTE",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Mobil-BMW-M8.jpeg",
+      "link_mods":"https://file.modbussid.co.id/6o4",
+      "link_livery":""
+    }
+
+  ],
+
+
+  "GARASI":
+  [
+    {
+      "title":"XXXX",
+      "image":"XXXXX",
+      "link_garasi":"XXXXX",
+      "link_livery":""
+    }
+  ]
+}
