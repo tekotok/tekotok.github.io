@@ -62,6 +62,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358051419768:android:fff3b4e85dab1e6d2aff8d",
+        "android_client_info": {
+          "package_name": "com.tekotok.truck_canter_bussid_bussimulator_indonesia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358051419768-ge5sl4f5k6qo94hfpgk7oi83lhuk2j6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0EuBBPlYXF6g7n7H0ujwAVo16_a7KSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358051419768-ge5sl4f5k6qo94hfpgk7oi83lhuk2j6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
