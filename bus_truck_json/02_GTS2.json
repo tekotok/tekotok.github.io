@@ -1,0 +1,174 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "xx",
+       "select_backup_ads":"xxx",
+
+       "main_ads_banner": "xx",
+       "main_ads_intertitial":"xx",
+
+       "native_for_admob":"xx",
+       "native_for_admob2":"xx",
+
+       "backup_ads_banner":"db4d5e8718b97d78",
+       "backup_ads_intertitial":"518cd97722c60b52",
+
+       "interval_intertitial": 4,
+       "interval_native": 2,
+
+       "initialize_sdk":"initialize_sdk",
+       "initialize_sdk_backup_ads":"xx",
+
+       "high_paying_keyword_1": "xx",
+       "high_paying_keyword_2": "xx",
+       "high_paying_keyword_3": "xx",
+       "high_paying_keyword_4": "xx",
+       "high_paying_keyword_5": "xx",
+
+       "status_app": "0",
+       "link_redirect": "https://"
+     }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Truck Canter - Bus Simulator ",
+      "image": "https://play-lh.googleusercontent.com/lUhwLQdC7jSjknFBBSuB9nDuz8HPBYUivjhVRz9A6CEIv95_Hw5tT3yLPF0B5DzM8vX2=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.truck_canter_bussid_bussimulator_indonesia"
+    },
+    {
+      "id": 2,
+      "title": "Rosalia Mod Bus Simulator Indo",
+      "image": "https://play-lh.googleusercontent.com/UGl6ZNLXA1s8dxaxWDwltByEKuJr-QOAZ9yLkDSyHFsPgI9HiSGwgd68L3TSyzqv=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.rosaliaindah_bussid_bussimulator"
+    },
+    {
+      "id": 3,
+      "title": "Bus Simulator Indo Mod",
+      "image": "https://play-lh.googleusercontent.com/fWsh9s7zwhKL3ZTk4n7ioOXgZmxLwOXLdWxFn2rHSMgg3cHvaZfdsz8a-4RlbATEgtw=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.patroli_polisi_bussid_bussimulator"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Buss",
+      "image": "https://1.bp.blogspot.com/-TY1xcAu27GM/X5ePi1SIDyI/AAAAAAAAA-8/7AWxPdsS3roOs8YuwMNH2_3uXDDXXnKXACLcBGAsYHQ/w288-h162-p-k-no-nu/Lions%2BCoach%2B1907.png"
+    }
+  ],
+  "Data": [
+
+    {
+      "id": 2,
+      "name_category": "BAÚ / CHEST",
+      "title": "1114 + Elma Chips",
+      "image": "https://i1.wp.com/skinsgts2.com/wp-content/uploads/2022/04/Print.png?resize=810%2C400&ssl=1",
+      "description": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL0JhJUMzJUJBLUVsbWEtQ2hpcHMucG5n&h=c140502eaa83d0009b35ade0c66ba1a0",
+      "link": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL01CLTExMTMtRWxtYS1DaGlwcy5wbmc=&h=c3f7a9ad14777b879a734441ec6ff4b7"
+    },
+    {
+      "id": 2,
+      "name_category": "BAÚ / CHEST",
+      "title": "MB 1620 + Goodyear Chest",
+      "image": "https://i0.wp.com/skinsgts2.com/wp-content/uploads/2022/03/Print_1.png?resize=810%2C400&ssl=1",
+      "description": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL0JhJUMzJUJBLUdvb2RZZWFyLnBuZw==&h=7468b5a8a06386cbbf1a9d1f23981008",
+      "link": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL01CLTE2MjAtR29vZFllYXIucG5n&h=8897dd53e6c924f5fc994c591d6b36f1"
+    },
+    {
+      "id": 2,
+      "name_category": "BAÚ / CHEST",
+      "title": "MB 1114 + Post Office Chest",
+      "image": "https://i0.wp.com/skinsgts2.com/wp-content/uploads/2021/10/Print_1-1.png?resize=810%2C400&ssl=1",
+      "description": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL0JhJUMzJUJBLUNvcnJlaW9zLnBuZw==&h=434a5c33596cefaa9296137607686fbf%20",
+      "link": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL01CLTExMTMtQ29ycmVpb3MucG5n&h=9c99dd8df5eb463239d26cdb3f6e24d2"
+    },
+    {
+      "id": 2,
+      "name_category": "BAÚ / CHEST",
+      "title": "MB 1114 + Jadlog's Chest",
+      "image": "https://i2.wp.com/skinsgts2.com/wp-content/uploads/2021/10/Print-3.png?resize=810%2C400&ssl=1",
+      "description": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL0JhJUMzJUJBLUphZGxvZy5wbmc=&h=fa38881443ff7d510a879bac7c396f0a",
+      "link": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL01CLTExMTMtSmFkbG9nLnBuZw==&h=088f2f88aa7d238abe9911d6405345b8"
+    },
+    {
+      "id": 2,
+      "name_category": "BAÚ / CHEST",
+      "title": "MB 1620 + Subway Chest",
+      "image": "https://i0.wp.com/skinsgts2.com/wp-content/uploads/2021/09/Print_1-5.png?resize=810%2C400&ssl=1",
+      "description": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL0JhJUMzJUJBLWRhLVN1YndheS5wbmc=&h=5b244d9d2a4ca2fdea2c805cb02edaec",
+      "link": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL01CLTE2MjAtU3Vid2F5LnBuZw==&h=8310ea8158fce12a7e6f8bf9de71dbe3"
+    },
+    {
+      "id": 2,
+      "name_category": "BAÚ / CHEST",
+      "title": "MB 1620 Blue + Custom Chest",
+      "image": "https://i0.wp.com/skinsgts2.com/wp-content/uploads/2021/10/Print_1.png?resize=810%2C400&ssl=1",
+      "description": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL0JhJUMzJUJBLUNpbnphLnBuZw==&h=afeeb44619893d036654de33b6c12a04",
+      "link": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL01CLTE2MjAtQXp1bC0lMkItQmElQzMlQkEucG5n&h=113eb4d787b619f2170e7e4bfcac8dbd"
+    },
+    {
+      "id": 2,
+      "name_category": "BAÚ / CHEST",
+      "title": "MB 1620 Gray Black Face + Qualified Chest",
+      "image": "https://i1.wp.com/skinsgts2.com/wp-content/uploads/2021/09/MB_1620_Cinza_Cara_Preta__Bau_Qualificado.png?resize=800%2C450&ssl=1",
+      "description": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL0JhJUMzJUJBLUNpbnphLVF1YWxpZmljYWRvLmpwZw==&h=88525b44940df4f40b34f5e27770e95a",
+      "link": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL01CLTE2MjAtQ2luemEtQ2FyYS1QcmV0YS5qcGc=&h=c3aa9f15821b27cdc76a0f5970f1684c"
+    },
+    {
+      "id": 2,
+      "name_category": "BAÚ / CHEST",
+      "title": "MB 1114 + Carrefour's Chest",
+      "image": "https://i0.wp.com/skinsgts2.com/wp-content/uploads/2021/09/MB_1113_Carrefour_Print.png?resize=800%2C450&ssl=1",
+      "description": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL0JhJUMzJUJBLWRvLUNhcnJlZm91ci5wbmc=&h=79d046103c79c378b6ebf276821dd3c4",
+      "link": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL01CLTExMTMtQ2FycmVmb3VyLVNraW4ucG5n&h=d494c4b3c957784ef0a16b6325e72086"
+    },
+    {
+      "id": 2,
+      "name_category": "BAÚ / CHEST",
+      "title": "Nissu MB 1620 Skins + Chest and Interior",
+      "image": "https://i2.wp.com/skinsgts2.com/wp-content/uploads/2021/09/MB_1620_do_Nissu__Bau_e_Interior.png?resize=800%2C450&ssl=1",
+      "description": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL0JhJUMzJUJBLWRvLU5pc3N1LnBuZw==&h=b606486d58dccb33a24ef690ff1045b4",
+      "link": "https://tekotok.github.io/gts2/nissu/nissu.rar"
+    },
+    {
+      "id": 2,
+      "name_category": "BAÚ / CHEST",
+      "title": "Skins MB 1620 + Chest of Fanta",
+      "image": "https://i1.wp.com/skinsgts2.com/wp-content/uploads/2019/09/Print_1.png?resize=696%2C344&ssl=1",
+      "description": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL0JhJUMzJUJBLUZhbnRhLnBuZw==&h=939b5ee2d2452781c02a772121caff63",
+      "link": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL01CLTE2MjAtRmFudGEucG5n&h=0f5603621e5645730874d15b35c6d16d"
+    },
+    {
+      "id": 2,
+      "name_category": "BAÚ / CHEST",
+      "title": "MB 1114 + Amazon Chest",
+      "image": "https://i0.wp.com/skinsgts2.com/wp-content/uploads/2021/09/MB_1113_Amazon_Print.png?resize=696%2C392&ssl=1",
+      "description": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL0JhJUMzJUJBLWRhLUFtYXpvbi5wbmc=&h=9d24a90b56037ed1cf80eda18ebde992",
+      "link": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL01CLTExMTQtQW1hem9uLnBuZw==&h=717358c5fa7f53cda0310b6cfb916e93"
+    },
+    {
+      "id": 2,
+      "name_category": "BAÚ / CHEST",
+      "title": "MB 1620 + Expresso São Miguel Chest",
+      "image": "https://i2.wp.com/skinsgts2.com/wp-content/uploads/2019/08/MB_1620_Expresso_Sao_Miguel_Print.png?resize=696%2C392&ssl=1",
+      "description": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL0JhJUMzJUJBLUV4cHJlc3NvLVMlQzMlQTNvLU1pZ3VlbC5wbmc=&h=4ccf308ebfe53bc5e6aa51d2ff29da4f",
+      "link": "https://skinsgts2.com/vfm/vfm-admin/vfm-downloader.php?q=dXBsb2Fkcy9TS0lOUy1HVFMyL01CLTE2MjAtRXhwcmVzc28tUyVDMyVBM28tTWlndWVsLVNraW4ucG5n&h=504fb3d711321a203edac730b4f82bf5"
+    },
+    {
+      "id": 2,
+      "name_category": "BAÚ / CHEST",
+      "title": "xxxxxxxx",
+      "image": "xxxxxxxx",
+      "description": "kontainernyaCHEST",
+      "link": "xxxxxxx"
+    },
+    {
+      "id": 2,
+      "name_category": "BAÚ / CHEST",
+      "title": "xxxxxxxx",
+      "image": "xxxxxxxx",
+      "description": "kontainernyaCHEST",
+      "link": "xxxxxxx"
+    }
+  ]
+}
