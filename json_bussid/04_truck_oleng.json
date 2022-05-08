@@ -1,0 +1,436 @@
+ { "Ads": [
+   {
+      "select_main_ads": "xx",
+      "select_backup_ads":"xxx",
+
+      "main_ads_banner": "xx",
+      "main_ads_intertitial":"xx",
+
+      "native_for_admob":"xx",
+      "native_for_admob2":"xx",
+
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+
+      "interval_intertitial": 4,
+      "interval_native": 2,
+
+      "initialize_sdk":"initialize_sdk",
+      "initialize_sdk_backup_ads":"xx",
+
+      "high_paying_keyword_1": "xx",
+      "high_paying_keyword_2": "xx",
+      "high_paying_keyword_3": "xx",
+      "high_paying_keyword_4": "xx",
+      "high_paying_keyword_5": "xx",
+
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "DATA":
+  [
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Bandar Susu",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Canter-Bandar-Susu-Terpal-Segitiga.jpg",
+      "link":"https://file.modbussid.co.id/3me",
+      "description":"https://tekotok.github.io/livery/Bandar Susu.png"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Canter Box Balap",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Canter-Box-Balap.jpg",
+      "link":"https://file.modbussid.co.id/3mh",
+      "description":"https://tekotok.github.io/livery/Canter Box Balap.png"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Canter Towing Grand Master",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Canter-Towing-Grand-Master.jpg",
+      "link":"https://file.modbussid.co.id/3mj",
+      "description":"https://tekotok.github.io/livery/Canter Towing Grand Master.png"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Isuzu NKR Dump Muat Sawit",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/Isuzu-NKR-Dump-Muat-Sawit.jpg",
+      "link":"https://file.modbussid.co.id/610",
+      "description":"https://tekotok.github.io/livery/"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Canter New Oppa Muda Terpal",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/Canter-New-Oppa-Muda-Terpal-Segitiga.jpg",
+      "link":"https://dl.modbussid.co.id/3ph",
+      "description":"https://tekotok.github.io/livery/Canter New Oppa Muda Terpal.png"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Isuzu Giga",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Isuzu-Giga.jpg",
+      "link":"https://file.modbussid.co.id/3nt",
+      "description":"https://tekotok.github.io/livery/"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Axor Mercedes-Benz Dump",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Truck-Axor-Mercedes-Benz-Dump.jpeg",
+      "link":"https://download.modbussid.co.id/5S2",
+      "description":"https://tekotok.github.io/livery/"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Hino Losbak Muat Semen",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Truck-Hino-Losbak-Muat-Semen.jpeg",
+      "link":"https://dl.modbussid.co.id/5S3",
+      "description":"https://tekotok.github.io/livery/"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"New Canter Gandeng",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Truck-New-Canter-Gandeng.jpeg",
+      "link":"https://dl.modbussid.co.id/5S4",
+      "description":"https://tekotok.github.io/livery/"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Fuso Bak Terpal",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Fuso-Bak-Terpal.jpeg",
+      "link":"https://dl.modbussid.co.id/3ga",
+      "description":"https://tekotok.github.io/livery/"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Fuso Dump Muatan Batu",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Fuso-Dump-Muatan-Batu.jpeg",
+      "link":"https://dl.modbussid.co.id/3g9",
+      "description":"https://tekotok.github.io/livery/"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Canter Wahyu Abadi",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Canter-Wahyu-Abadi.jpeg",
+      "link":"https://dl.modbussid.co.id/3gm",
+      "description":"https://tekotok.github.io/livery/"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Pickup Tahu Bulat",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Pickup-Tahu-Bulat.jpeg",
+      "link":"https://dl.modbussid.co.id/3im",
+      "description":"https://tekotok.github.io/livery/"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Truck VAR 4",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Truck-VAR-4.jpeg",
+      "link":"https://dl.modbussid.co.id/8us",
+      "description":"https://tekotok.github.io/livery/"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Canter Anti Gosip Terpal Segitiga",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/Canter-Anti-Gosip-Terpal-Segitiga.jpg",
+      "link":"https://file.modbussid.co.id/62Z",
+      "description":"https://tekotok.github.io/livery/Canter Anti Gosip Terpal Segitiga.png"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Engkel Hino 500 NG HSD",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Engkel-Hino-500-NG-HSD.jpeg",
+      "link":"https://dl.modbussid.co.id/5R2",
+      "description":"https://tekotok.github.io/livery/"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Volvo Globetrottter Pertamina",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/07/MOD-BUSSID-Truck-Volvo-Globetrottter-Pertamina.jpeg",
+      "link":"https://dl.modbussid.co.id/5R0",
+      "description":"https://tekotok.github.io/livery/"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Hino 500 Bumper Modif by HSD Codit Aldovadewa",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/05/MOD-BUSSID-Truck-Hino-500-Bumper-Modif.jpeg",
+      "link":"https://download.modbussid.co.id/3ed",
+      "description":"https://tekotok.github.io/livery/"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Canter V2 Varian A, B, C, D",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/05/MOD-BUSSID-Truck-Canter-V2-Varian-A-B-C-D.jpeg",
+      "link":"https://dl.modbussid.co.id/3ej",
+      "description":"https://tekotok.github.io/livery/"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Canter Paman Santri Muatan Gayor",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/06/MOD-BUSSID-Truck-Canter-Paman-Santri-Muatan-Gayor.jpeg",
+      "link":"https://dl.modbussid.co.id/3ex",
+      "description":"https://tekotok.github.io/livery/"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Mitsubishi Fuso Canter by BMI",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/07/MOD-BUSSID-Truck-Mitsubishi-Fuso-Canter.jpeg",
+      "link":"https://dl.modbussid.co.id/5NY",
+      "description":"https://tekotok.github.io/livery/"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Truck Tua Mack Amerika",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Tua-Mack-Amerika.jpeg",
+      "link":"https://dl.modbussid.co.id/3ge",
+      "description":"https://tekotok.github.io/livery/"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Hino 500 Angkut Pipa",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Hino-500-Angkut-Pipa.jpeg",
+      "link":"https://dl.modbussid.co.id/3g6",
+      "description":"https://tekotok.github.io/livery/"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Isuzu NKR 71 Dump",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Isuzu-NKR-71-Dump.jpg",
+      "link":"https://dl.modbussid.co.id/3lw",
+      "description":"https://tekotok.github.io/livery/"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"NKR Towing Angkut Beko",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Isuzu-NKR-Towing-Angkut-Beko.jpg",
+      "link":"https://dl.modbussid.co.id/3ly",
+      "description":"https://tekotok.github.io/livery/"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Isuzu NKR Towing Angkut Beko & Canter",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Isuzu-NKR-Towing-Angkut-Beko-Canter.jpg",
+      "link":"https://dl.modbussid.co.id/3lx",
+      "description":"https://tekotok.github.io/livery/"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Peterbilt Truck",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/Peterbilt-Truck.jpg",
+      "link":"https://dl.modbussid.co.id/8yx",
+      "description":"https://tekotok.github.io/livery/Peterbilt Truck.png"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Volvo FMX E5 10X4 Dumper",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Volvo-FMX-E5-10X4-Dumper.jpeg",
+      "link":"https://dl.modbussid.co.id/3vo",
+      "description":"https://tekotok.github.io/livery/"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Canter Box Lady Rose",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Canter-Box-Lady-Rose.jpeg",
+      "link":"https://dl.modbussid.co.id/3vi",
+      "description":"https://tekotok.github.io/livery/"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Truck Canter Samudra Nusantara",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/Canter-Samudra-Nusantara.jpg",
+      "link":"https://dl.modbussid.co.id/bAx",
+      "description":"https://tekotok.github.io/livery/Truck Canter Samudra Nusantara.png"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Canter Bumi Wali Muat Bambu",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Truck-Canter-Bumi-Wali-Muat-Bambu.jpeg",
+      "link":"https://dl.modbussid.co.id/6de",
+      "description":"https://tekotok.github.io/livery/Canter Bumi Wali Muat Bambu.png"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Canter Ayam Maulana Expedition",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Truck-Canter-Ayam-Maulana-Expedition.jpeg",
+      "link":"https://dl.modbussid.co.id/8NV",
+      "description":"https://tekotok.github.io/livery/Canter Ayam Maulana Expedition.png"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Isuzu NMR 01 Mbois",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/05/Isuzu-NMR-01-Mbois.jpg",
+      "link":"https://dl.modbussid.co.id/bwe",
+      "description":"https://tekotok.github.io/livery/Isuzu NMR 01 Mbois.png"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Canter New Wahyu Abadi Bumper M18",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/05/MOD-BUSSID-Truck-Canter-New-Wahyu-Abadi-Bumper-M18.jpeg",
+      "link":"https://dl.modbussid.co.id/bwa",
+      "description":"https://tekotok.github.io/livery/Canter New Wahyu Abadi Bumper M18.png"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Mercedes-Benz Unimog Gandeng",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/Truck-Mercedes-Benz-Unimog-Gandeng.jpg",
+      "link":"https://dl.modbussid.co.id/byc",
+      "description":"https://tekotok.github.io/livery/Mercedes-Benz Unimog Gandeng.png"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Scania R580 Trailer",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/Truck-Scania-R580-Trailer.jpg",
+      "link":"https://file.modbussid.co.id/6lw",
+      "description":"https://tekotok.github.io/livery/Scania R580 Trailer.png"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Hydramax AERV",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Truck-Hydramax-AERV.jpg",
+      "link":"https://dl.modbussid.co.id/byu",
+      "description":"https://tekotok.github.io/livery/Hydramax AERV.png"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Mercedes-Benz Atego Damkar",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/08/MOD-BUSSID-Truck-Mercedes-Benz-Atego-Damkar.jpg",
+      "link":"https://file.modbussid.co.id/6n8",
+      "description":"https://tekotok.github.io/livery/"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Canter Ayam Bodykit Samudra Nusantara",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Truck-Canter-Ayam-Bodykit-Samudra-Nusantara.jpg",
+      "link":"https://file.modbussid.co.id/bAv",
+      "description":"https://tekotok.github.io/livery/Canter Ayam Bodykit Samudra Nusantara.png"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"cania P360 Pemadam Kebakaran",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Truck-Scania-P360-Pemadam-Kebakaran.jpeg",
+      "link":"https://file.modbussid.co.id/6oa",
+      "description":"https://tekotok.github.io/livery/"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Truck-Monster",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Monster-Truck-Seventy-Indonesia.jpeg",
+      "link":"https://file.modbussid.co.id/6q6?pt=WkV0blJXWjRaVTlQT1hKRlVHbDVZaTlpTVUxTFp6MDlPdGczK2c0cUlvZnk0ckNzQXBqU0xNQT0%3D",
+      "description":"https://tekotok.github.io/livery/"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Truck-Umplung",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Umplung-Kantor-Rafael-Wedding.jpeg",
+      "link":"https://file.modbussid.co.id/6qd",
+      "description":"https://tekotok.github.io/livery/Truck-Umplung.png"
+    },
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Volvo FMX 440",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Volvo-FMX-440.jpeg",
+      "link":"https://file.modbussid.co.id/6qb",
+      "description":"https://tekotok.github.io/livery/Volvo FMX 440.png"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"UD Quester Bak Muat Kayu",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-UD-Quester-Bak-Muat-Kayu.jpeg",
+      "link":"https://file.modbussid.co.id/6q0",
+      "description":"https://tekotok.github.io/livery/UD Quester Bak Muat Kayu.png"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Canter NMR JSK Concept Star Light",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-NMR-JSK-Concept-Star-Light.jpeg",
+      "link":"https://file.modbussid.co.id/919",
+      "description":"https://tekotok.github.io/livery/Canter NMR JSK Concept Star Light.png"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Truck Canter Giga Restu Bunda",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Giga-Restu-Bunda.jpeg",
+      "link":"https://file.modbussid.co.id/910",
+      "description":"https://tekotok.github.io/livery/Truck Canter Giga Restu Bunda.png"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Hino Trailer Pencuri Traffic",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Hino-Trailer-Pencuri-Traffic.jpeg",
+      "link":"https://file.modbussid.co.id/90Z",
+      "description":"https://tekotok.github.io/livery/"
+    },
+
+    {
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Canter Sujama Malika",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Sujama-Malika.jpeg",
+      "link":"https://file.modbussid.co.id/90X",
+      "description":"https://tekotok.github.io/livery/Canter Sujama Malika.png"
+    }
+  ]
+}
