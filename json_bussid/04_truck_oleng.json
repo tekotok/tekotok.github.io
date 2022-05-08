@@ -1,33 +1,33 @@
- { "Ads": [
-   {
-      "select_main_ads": "xx",
-      "select_backup_ads":"xxx",
+{ "Ads": [
+  {
+    "select_main_ads": "xx",
+    "select_backup_ads":"xxx",
 
-      "main_ads_banner": "xx",
-      "main_ads_intertitial":"xx",
+    "main_ads_banner": "xx",
+    "main_ads_intertitial":"xx",
 
-      "native_for_admob":"xx",
-      "native_for_admob2":"xx",
+    "native_for_admob":"xx",
+    "native_for_admob2":"xx",
 
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+    "backup_ads_banner":"db4d5e8718b97d78",
+    "backup_ads_intertitial":"518cd97722c60b52",
 
-      "interval_intertitial": 4,
-      "interval_native": 2,
+    "interval_intertitial": 4,
+    "interval_native": 2,
 
-      "initialize_sdk":"initialize_sdk",
-      "initialize_sdk_backup_ads":"xx",
+    "initialize_sdk":"initialize_sdk",
+    "initialize_sdk_backup_ads":"xx",
 
-      "high_paying_keyword_1": "xx",
-      "high_paying_keyword_2": "xx",
-      "high_paying_keyword_3": "xx",
-      "high_paying_keyword_4": "xx",
-      "high_paying_keyword_5": "xx",
+    "high_paying_keyword_1": "xx",
+    "high_paying_keyword_2": "xx",
+    "high_paying_keyword_3": "xx",
+    "high_paying_keyword_4": "xx",
+    "high_paying_keyword_5": "xx",
 
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],
+    "status_app": "0",
+    "link_redirect": "https://"
+  }
+],
 
   "More": [
     {
@@ -50,15 +50,15 @@
     }
   ],
   "Categories": [
-   {
+    {
 
-     "id": 1,
-     "name_category": "Truk Oleng",
-     "title":"Fuso Bak Terpal",
-     "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Fuso-Bak-Terpal.jpeg"
-  }
- ],
-  "DATA":
+      "id": 1,
+      "name_category": "Truk Oleng",
+      "title":"Fuso Bak Terpal",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/08/MOD-BUSSID-Truck-Fuso-Bak-Terpal.jpeg"
+    }
+  ],
+  "Data":
   [
     {
       "id": 1,
