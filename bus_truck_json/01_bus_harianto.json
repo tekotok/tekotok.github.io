@@ -15,7 +15,7 @@
        "backup_ads_intertitial":"518cd97722c60b52",
 
        "interval_intertitial": 4,
-       "interval_native": 2,
+       "interval_native": 3,
 
        "initialize_sdk":"initialize_sdk",
        "initialize_sdk_backup_ads":"xx",
