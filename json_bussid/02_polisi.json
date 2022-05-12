@@ -1,12 +1,12 @@
  { "Ads": [
     {
-      "select_main_ads": "XX",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"XX",
 
       "main_ads_banner": "xx",
-      "main_ads_intertitial":"xx",
+      "main_ads_intertitial":"ca-app-pub-1662959779358828/2353998690",
 
-      "main_native_for_admob_applovin":"xx",
+      "main_native_for_admob_applovin":"ca-app-pub-1662959779358828/4042484881",
       "backup_native_for_admob_applovin":"",
 
       "backup_ads_banner":"xx",
