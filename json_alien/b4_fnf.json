@@ -1,0 +1,131 @@
+{
+  "Ads": [
+    {
+
+      "select_main_ads":"xx",
+      "select_backup_ads":"XX",
+
+      "main_ads_intertitial":"xx",
+      "main_ads_banner":"DefaultBanner",
+
+      "backup_ads_intertitial":"DefaultInterstitial",
+      "backup_ads_banner":"DefaultBanner",
+
+      "initialize_sdk":"INITIALIZE_SDK",
+      "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
+
+      "interval_intertitial":0,
+      "admob_native": "xx",
+      "admob_native2": "xx",
+      "admob_open": "xx",
+
+      "hpk1": "",
+      "hpk2": "",
+      "hpk3": "",
+      "hpk4": "",
+      "hpk5": "",
+
+      "status_app": "0879869867896879667567576",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More": [
+    {
+      "id": 1,
+      "title": "Sakura Schools ",
+      "image": "https://play-lh.googleusercontent.com/pIlpV8rtVZtGDNgCpzgmgNgeaj86MIv7UWveer3ou1unDGjOMKLNPGmRKg8I1ZoBzwOb=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.sakuraschools"
+    },
+    {
+      "id": 2,
+      "title": "Upin & Ipin Chat & Call",
+      "image": "https://play-lh.googleusercontent.com/rFQ2ms0ANNdOtZi887WK-onSYoeSivkl7BahGr5rZeLwDwTcprOvI2NIUb6OKIhVh-c=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.upinipin"
+    },
+    {
+      "id": 3,
+      "title": "Mail Upin Ipin - games",
+      "image": "https://play-lh.googleusercontent.com/7l5q1b59ucwKPC2MUPN6KKfiM45CnOAgPjhixxfwh_l03a5PqkwszFdaQ4fwKdWi-A=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.mail_upinipin"
+    },
+    {
+      "id": 4,
+      "title": "bts Suga Video Chat & Call",
+      "image": "https://play-lh.googleusercontent.com/aQlpw03H66YrWB1Xl11-nbD04PL50Jkdr_buo935ougmZ6si1GgQMSm8pKx05I0G-Q=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.btssuga_minyoogi.car"
+    },
+    {
+      "id": 5,
+      "title": "TS JIMIN, Amazing video call",
+      "image": "https://play-lh.googleusercontent.com/SCnQMcrZ6FyclhMBUT2OBxugNwXu2B3rASO_I21v9ztmS0z0HSEodrxSrrjaKekHGsxz=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.bts_jimin"
+    },
+    {
+      "id": 6,
+      "title": "Charli D' Amelio",
+      "image": "https://play-lh.googleusercontent.com/LY_FKTCJGc-tau6V2_0GZDCWTJJC_fIPhbRHTESh98yrLGwm7GnVao_ilFqfIHWPC_I=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.charli_d_amelio.car"
+    },
+    {
+      "id": 7,
+      "title": "BTS V Kim TAe hyung",
+      "image": "https://play-lh.googleusercontent.com/5zZKH9RH8psSOVbpWKPMvfZzItIPuqRHp7IWGX6MsWYSPUWbIe0W-CqhQ5KuGwEcudI=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.btsv.car"
+    },
+    {
+      "id": 8,
+      "title": "Skins Ultimate Bus Simulator",
+      "image": "https://play-lh.googleusercontent.com/Xr5PhDNxOtVpZQ1ZnlXDZW-U4_1bQ9auO8CX_AC3ZAVs-Z5Meyf2K_HyUAbGclSYkco=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.bus_simulator_ultimate_harapan"
+    },
+    {
+      "id": 9,
+      "title": "Truk Oleng - Bus simulator ind",
+      "image": "https://play-lh.googleusercontent.com/n6A4FzH3m73iqJJZEIfwk49cpBj3yH6PPbwdM6TH1lZtf4ZfO52tys-Qeku5E5R-0wk=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.bus_simulator_indonesia_truck_oleng"
+    },
+    {
+      "id": 10,
+      "title": "Lamborghini Aventador",
+      "image": "https://play-lh.googleusercontent.com/UFpEppYZJ4TLblxh_sVHPy5664ov9mSpKU7aJy6w5ocS8KbdWCfnYLzodPbLPMDOmost=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.bus_simulator_indonesia_mobil"
+    },
+    {
+      "id": 11,
+      "title": "ungkook Video Chat & Call",
+      "image": "https://play-lh.googleusercontent.com/h8X2DnjQf75FDPU_3mO78hnaY_COjgCMahYHsPBLkTkZcHXkxw21BQe-3aIqfe_D6u4=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.btsjungkook.car"
+    },
+    {
+      "id": 12,
+      "title": "Nastya Video Chat & Call",
+      "image": "https://play-lh.googleusercontent.com/tWs7E2qWq_c61AChCGTSZuk145exHRgfC5djxuy4yLH6Oy0jDYqcoUfGAtyGDH0ItGGT=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.like_nastya_yt.car"
+    },
+    {
+      "id": 13,
+      "title": "ella Poarch Video Chat & Call",
+      "image": "https://play-lh.googleusercontent.com/xkw0Yb6LMRbmvJbJfEeLl30tS45q2--L2-OyKN3o0TfsItY2Ax7Il818IlcM6x7gsQ=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.bella_poarch_yt.car"
+    },
+    {
+      "id": 4,
+      "title": "Truck Canter - Bus Simulator ",
+      "image": "https://play-lh.googleusercontent.com/lUhwLQdC7jSjknFBBSuB9nDuz8HPBYUivjhVRz9A6CEIv95_Hw5tT3yLPF0B5DzM8vX2=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.truck_canter_bussid_bussimulator_indonesia"
+    },
+    {
+      "id": 5,
+      "title": "Rosalia Mod Bus Simulator Indo",
+      "image": "https://play-lh.googleusercontent.com/UGl6ZNLXA1s8dxaxWDwltByEKuJr-QOAZ9yLkDSyHFsPgI9HiSGwgd68L3TSyzqv=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.rosaliaindah_bussid_bussimulator"
+    },
+    {
+      "id": 6,
+      "title": "Polisi Bus Simulator Indo Mod",
+      "image": "https://play-lh.googleusercontent.com/fWsh9s7zwhKL3ZTk4n7ioOXgZmxLwOXLdWxFn2rHSMgg3cHvaZfdsz8a-4RlbATEgtw=s360",
+      "link": "https://play.google.com/store/apps/details?id=com.tekotok.patroli_polisi_bussid_bussimulator"
+    }
+  ]
+}
