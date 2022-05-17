@@ -8,12 +8,13 @@
 
     "native_for_admob":"xx",
     "native_for_admob2":"xx",
+    "admob_open":"xx",
 
     "backup_ads_banner":"db4d5e8718b97d78",
     "backup_ads_intertitial":"518cd97722c60b52",
 
     "interval_intertitial": 4,
-    "interval_native": 2,
+    "interval_native": 5,
 
     "initialize_sdk":"initialize_sdk",
     "initialize_sdk_backup_ads":"xx",

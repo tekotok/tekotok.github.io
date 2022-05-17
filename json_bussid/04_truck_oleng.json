@@ -1,19 +1,20 @@
 { "Ads": [
   {
-    "select_main_ads": "xx",
+    "select_main_ads": "ADMOB",
     "select_backup_ads":"xxx",
 
     "main_ads_banner": "xx",
-    "main_ads_intertitial":"xx",
+    "main_ads_intertitial":"ca-app-pub-1662959779358828/5955375930",
 
-    "native_for_admob":"xx",
-    "native_for_admob2":"xx",
+    "native_for_admob":"ca-app-pub-1662959779358828/8198395899",
+    "native_for_admob2":"ca-app-pub-1662959779358828/5572232559",
+    "admob_open":"ca-app-pub-1662959779358828/9319905870",
 
     "backup_ads_banner":"db4d5e8718b97d78",
     "backup_ads_intertitial":"518cd97722c60b52",
 
     "interval_intertitial": 4,
-    "interval_native": 2,
+    "interval_native": 5,
 
     "initialize_sdk":"initialize_sdk",
     "initialize_sdk_backup_ads":"xx",
