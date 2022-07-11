@@ -2,28 +2,28 @@
   "Ads": [
     {
 
-      "select_main_ads":"xxxx",
-      "select_backup_ads":"XX",
+      "select_main_ads":"ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
 
-      "main_ads_intertitial":"xxxx",
+      "main_ads_intertitial":"ca-app-pub-1662959779358828/9427250187",
       "main_ads_banner":"xxxxx",
-      "main_ads_rewards":"xxxxx",
+      "main_ads_rewards":"ca-app-pub-1662959779358828/2695348548",
 
-      "backup_ads_intertitial":"DefaultInterstitial",
-      "backup_ads_banner":"DefaultBanner",
-      "backup_ads_rewards":"DefaultRewards",
+      "backup_ads_intertitial":"413a49ed7acb9d6c",
+      "backup_ads_banner":"21ea27058257961e",
+      "backup_ads_rewards":"1ace48ab1f2c1d81",
 
       "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
 
       "interval_intertitial":0,
-      "admob_native": "xxxxx",
-      "admob_native2": "xxxxx",
-      "admob_open": "xxxxx",
-      
-      
-      
-      "survey_api_key": "xxxxx",
+      "admob_native": "ca-app-pub-1662959779358828/9783501076",
+      "admob_native2": "ca-app-pub-1662959779358828/6562709540",
+      "admob_open": "ca-app-pub-1662959779358828/1382266873",
+
+
+
+      "survey_api_key": "2d0f1ee7-b72b-4f3f-b1c5-0ab9839648fa",
 
       "hpk1": "",
       "hpk2": "",
