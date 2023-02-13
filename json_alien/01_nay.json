@@ -5,8 +5,8 @@
       "select_ads":"ADMOB",
       "select_backup_ads":"STARTAPP",
 
-      "main_ads_inter":"ca-app-pub-1662959779358828/7243299033",
-      "main_ads_banner":"ca-app-pub-1662959779358828/7083995865",
+      "main_ads_inter":"xxxca-app-pub-1662959779358828/7243299033",
+      "main_ads_banner":"xxxca-app-pub-1662959779358828/7083995865",
 
       "backup_ads_inter":"DefaultInterstitial",
       "backup_ads_banner":"DefaultBanner",
@@ -17,9 +17,9 @@
       "interval":0,
 
 
-      "admob_native": "ca-app-pub-1662959779358828/7083995865",
-      "admob_open": "ca-app-pub-1662959779358828/5286030167",
-      "admob_open2": "ca-app-pub-1662959779358828/5216402816",
+      "admob_native": "xxxca-app-pub-1662959779358828/7083995865",
+      "admob_open": "xxxca-app-pub-1662959779358828/5286030167",
+      "admob_open2": "xxxca-app-pub-1662959779358828/5216402816",
       "open_only": "NO",
 
       "hpk1": "insurance",

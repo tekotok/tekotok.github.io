@@ -8,16 +8,16 @@
       "main_ads_intertitial":"xxxx",
       "main_ads_banner":"DefaultBanner",
 
-      "backup_ads_intertitial":"ca-app-pub-1662959779358828/8595677640",
+      "backup_ads_intertitial":"xxxca-app-pub-1662959779358828/8595677640",
       "backup_ads_banner":"DefaultBanner",
 
       "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
 
       "interval_intertitial":0,
-      "admob_native": "ca-app-pub-1662959779358828/8201744217",
-      "admob_native2": "ca-app-pub-1662959779358828/5575580874",
-      "admob_open": "ca-app-pub-1662959779358828/5969514306",
+      "admob_native": "xxxca-app-pub-1662959779358828/8201744217",
+      "admob_native2": "xxxca-app-pub-1662959779358828/5575580874",
+      "admob_open": "xxxca-app-pub-1662959779358828/5969514306",
 
       "hpk1": "",
       "hpk2": "",

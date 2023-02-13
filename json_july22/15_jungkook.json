@@ -5,7 +5,7 @@
       "select_main_ads":"ADMOB",
       "select_backup_ads":"XX",
 
-      "main_ads_intertitial":"xxxca-app-pub-1662959779358828/7613903502",
+      "main_ads_intertitial":"xxxca-app-pub-1662959779358828/3222636852",
       "main_ads_banner":"DefaultBanner",
 
       "backup_ads_intertitial":"DefaultInterstitial",
@@ -15,9 +15,9 @@
       "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
 
       "interval_intertitial":0,
-      "admob_native": "xxxca-app-pub-1662959779358828/1048495153",
-      "admob_native2": "xxxca-app-pub-1662959779358828/3483086803",
-      "admob_open": "xxxca-app-pub-1662959779358828/9856923465",
+      "admob_native": "xxxca-app-pub-1662959779358828/9596473516",
+      "admob_native2": "xxxca-app-pub-1662959779358828/3155457741",
+      "admob_open": "xxxca-app-pub-1662959779358828/4344146835",
 
       "hpk1": "",
       "hpk2": "",

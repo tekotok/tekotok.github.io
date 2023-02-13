@@ -4,16 +4,16 @@
       "select_backup_ads":"XX",
 
       "main_ads_banner": "xx",
-      "main_ads_intertitial":"ca-app-pub-1662959779358828/6407497575",
+      "main_ads_intertitial":"xxxca-app-pub-1662959779358828/6407497575",
 
-      "main_native_for_admob_applovin":"ca-app-pub-1662959779358828/5671068772",
+      "main_native_for_admob_applovin":"xxxca-app-pub-1662959779358828/5671068772",
       "backup_native_for_admob_applovin":"XX",
 
-      "backup_ads_banner":"ca-app-pub-1662959779358828/3944985761",
+      "backup_ads_banner":"xxxca-app-pub-1662959779358828/3944985761",
       "backup_ads_intertitial":"xx",
 
       "interval_intertitial": 1,
-      "admob_open": "ca-app-pub-1662959779358828/7529007555",
+      "admob_open": "xxxca-app-pub-1662959779358828/7529007555",
 
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
